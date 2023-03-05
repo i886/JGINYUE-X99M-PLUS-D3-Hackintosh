@@ -2,7 +2,6 @@
 EFI for JGINYUE-X99M-PLUS-D3-Hackintosh with OpenCore 0.8.9 bootloader  
 
 
-
 ### Computer Spec:
 
 | Component        | Specifications                         |
@@ -23,8 +22,7 @@ EFI for JGINYUE-X99M-PLUS-D3-Hackintosh with OpenCore 0.8.9 bootloader
 - [x] Intel® Xeon E5-2696 v3 Turbo Boost
 - [x] AMD Radeon™ GPUs
 - [x] ALC897 Audio Output/Input
-- [x] Realtek RTL8125B
-- [x] Realtek RTL8111H
+- [x] Realtek RTL8111
 - [x] Most USB Ports
 - [x] NVRAM
 
@@ -35,12 +33,10 @@ EFI for JGINYUE-X99M-PLUS-D3-Hackintosh with OpenCore 0.8.9 bootloader
 
 ### BIOS Settings:
 
-* Flash the mod BIOS or set DVMT to 64M
-
-## Donation
-If you found my project is helpful, you can offer me a cup of coffee.  
-<img src="http://code666.tk/static/wx.jpg" width = "162" height = "190" alt="WeChat Pay" align=center />
-<img src="http://code666.tk/static/zfb.jpg" width = "150" height = "190" alt="Alipay" align=center />
+* Disable:  
+CSM  
+CFG Lock  
+Secure Boot  
 
 ## Credits
 
