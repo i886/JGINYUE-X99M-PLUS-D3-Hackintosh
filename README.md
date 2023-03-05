@@ -23,7 +23,7 @@ EFI for JGINYUE-X99M-PLUS-D3-Hackintosh with OpenCore 0.8.9 bootloader
 - [x] AMD Radeon™ GPUs
 - [x] ALC897 Audio Output/Input
 - [x] Realtek RTL8111
-- [x] Most USB Ports
+- [x] All USB Ports
 - [x] NVRAM
 
 ### What Not Work:
